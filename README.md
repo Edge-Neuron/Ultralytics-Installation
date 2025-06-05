@@ -8,7 +8,7 @@ This repository provides a step-by-step guide and scripts to install and run Ult
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Supported-red?logo=opencv)](https://opencv.org/)
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20Video-%F0%9F%8E%A5-red?logo=youtube)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20Video-%F0%9F%8E%A5-red?logo=youtube)](https://youtu.be/7xhL0uPimmo?si=PbJ1rfsLZGmakrUu)
 
 A complete guide and working setup to install and run **Ultralytics YOLOv8** on your **Raspberry Pi 3B+/4** with either a **32-bit or 64-bit OS**. This repo helps you turn your Pi into a **low-power object detection system** using YOLOv8.
 
@@ -16,7 +16,7 @@ A complete guide and working setup to install and run **Ultralytics YOLOv8** on 
 
 ## 📸 Demo
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20Video-%F0%9F%8E%A5-red?logo=youtube)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo%20Video-%F0%9F%8E%A5-red?logo=youtube)](https://youtu.be/7xhL0uPimmo?si=PbJ1rfsLZGmakrUu)
 
 *Real-time object detection using YOLOv8 on Raspberry Pi 3 Model B+ (1GB RAM)*
 

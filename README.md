@@ -44,8 +44,8 @@ A complete guide and working setup to install and run **Ultralytics YOLOv8** on 
 ### 💡 Quick Setup
 
 ```bash
-git clone https://github.com/your-username/ultralytics-on-raspberrypi.git
-cd ultralytics-on-raspberrypi
+git clone https://github.com/Edge-Neuron/Ultralytics-Installation.git
+cd Ultralytics-Installation
 bash install.sh
 python3 run_yolo.py
 ```

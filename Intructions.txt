@@ -1,0 +1,8 @@
+python3 -m venv --system-site-packages libs
+source libs/bin/activate
+
+sudo apt update
+sudo apt install python3-pip -y
+pip install ultralytics --timeout 10000
+
+
